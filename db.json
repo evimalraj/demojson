@@ -1,6 +1,7 @@
 {
   "insurances": [
     {
+      "id": 1,
       "hasClaim": null,
       "productName": "Bilforsikring",
       "productNameShort": "Auto",
@@ -22,6 +23,7 @@
       "vehicleRegNo": "CX27191"    
     },
     {
+      "id": 2,
       "hasClaim": null,
       "productName": "Indboforsikring",
       "productNameShort": "Indbo",

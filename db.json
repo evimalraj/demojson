@@ -1,43 +1,45 @@
-[
-  {
-    "hasClaim": null,
-    "productName": "Bilforsikring",
-    "productNameShort": "Auto",
-    "policyNumber": "8200006428610213",
-    "policyNumberFormat": "820 6.428.621310",
-    "productKeyType": "01",
-    "productStatusActualCode": "20",
-    "productStatusActualShort": "Ikraft",
-    "productStatusActualLong": "Ikraft",
-    "currentPricePerYearShort": null,
-    "currentPricePerYearLong": null,
-    "futurePricePerYearShort": "6852.00",
-    "futurePricePerYearLong": null,
-    "placeOfInsurance": "",
-    "carDriver": null,
-    "descriptionOfNumbers": null,
-    "objectNameLong": "Personbil",
-    "makeAndModel": "Peugeot 308 1,5 BlueHDi Edition 210+ 130HK 5d 6g",
-    "vehicleRegNo": "CX27191"    
-  },
-  {
-    "hasClaim": null,
-    "productName": "Indboforsikring",
-    "productNameShort": "Indbo",
-    "policyNumber": "85660029324257976",
-    "policyNumberFormat": "856 6.002.957.9423476",
-    "productKeyType": "01",
-    "productStatusActualCode": "20",
-    "productStatusActualShort": "Ikraft",
-    "productStatusActualLong": "Ikraft",
-    "currentPricePerYearShort": null,
-    "currentPricePerYearLong": null,
-    "futurePricePerYearShort": "2316.00",
-    "futurePricePerYearLong": null,
-    "placeOfInsurance": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
-    "carDriver": null,
-    "descriptionOfNumbers": null,
-    "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø"
-    
-  }
-]
+{
+  "insurances": [
+    {
+      "hasClaim": null,
+      "productName": "Bilforsikring",
+      "productNameShort": "Auto",
+      "policyNumber": "8200006428610213",
+      "policyNumberFormat": "820 6.428.621310",
+      "productKeyType": "01",
+      "productStatusActualCode": "20",
+      "productStatusActualShort": "Ikraft",
+      "productStatusActualLong": "Ikraft",
+      "currentPricePerYearShort": null,
+      "currentPricePerYearLong": null,
+      "futurePricePerYearShort": "6852.00",
+      "futurePricePerYearLong": null,
+      "placeOfInsurance": "",
+      "carDriver": null,
+      "descriptionOfNumbers": null,
+      "objectNameLong": "Personbil",
+      "makeAndModel": "Peugeot 308 1,5 BlueHDi Edition 210+ 130HK 5d 6g",
+      "vehicleRegNo": "CX27191"    
+    },
+    {
+      "hasClaim": null,
+      "productName": "Indboforsikring",
+      "productNameShort": "Indbo",
+      "policyNumber": "85660029324257976",
+      "policyNumberFormat": "856 6.002.957.9423476",
+      "productKeyType": "01",
+      "productStatusActualCode": "20",
+      "productStatusActualShort": "Ikraft",
+      "productStatusActualLong": "Ikraft",
+      "currentPricePerYearShort": null,
+      "currentPricePerYearLong": null,
+      "futurePricePerYearShort": "2316.00",
+      "futurePricePerYearLong": null,
+      "placeOfInsurance": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+      "carDriver": null,
+      "descriptionOfNumbers": null,
+      "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø"
+
+    }
+  ]
+}

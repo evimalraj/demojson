@@ -1,0 +1,1087 @@
+[
+  {
+    "hasClaim": null,
+    "productName": "Bilforsikring",
+    "productNameShort": "Auto",
+    "policyNumber": "8200006428610",
+    "policyNumberFormat": "820 6.428.610",
+    "productKeyType": "01",
+    "productStatusActualCode": "20",
+    "productStatusActualShort": "Ikraft",
+    "productStatusActualLong": "Ikraft",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "6852.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Personbil",
+    "makeAndModel": "Peugeot 308 1,5 BlueHDi Edition 210+ 130HK 5d 6g",
+    "vehicleRegNo": "CX27191",
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": " ",
+    "upsellSiebel": " ",
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "ANSA",
+        "covName": "Ansvar",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "SDKA",
+        "covName": "Kasko",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "FRSK",
+        "covName": "Friskad",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "TVEE",
+        "covName": "Vejhjælp",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "FULY",
+        "covName": "Førerdækn.",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "VÆFO",
+        "covName": "Værdiforr.",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "TBPE",
+        "covName": "LåneBil",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "PARK",
+        "covName": "P-skade",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "STIL",
+        "covName": "Stilstand",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "LEAS",
+        "covName": "Leasing",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "UNBR",
+        "covName": "Ung bag ratt",
+        "covIndicator": false,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "BRUG"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BRUG"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "EJER"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "EJER"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "FTAG"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "PADB"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "PADB"
+      },
+      {
+        "rolePlayerID": "88627634501252407992",
+        "financialServiceRoleCode": "PAKR"
+      }
+    ],
+    "effectiveDate": "30. november 2020",
+    "productGroupCode": "PBIP",
+    "productGroupId": "820",
+    "tariff": "45",
+    "termsAndConditions": "20I8",
+    "usageType": "",
+    "groupNumber": "0811",
+    "policyEditStatus": true,
+    "rcproductKey": "RCT_Bil",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "571.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Indboforsikring",
+    "productNameShort": "Indbo",
+    "policyNumber": "8566002957976",
+    "policyNumberFormat": "856 6.002.957.976",
+    "productKeyType": "01",
+    "productStatusActualCode": "20",
+    "productStatusActualShort": "Ikraft",
+    "productStatusActualLong": "Ikraft",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "2316.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": " ",
+    "upsellSiebel": " ",
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SBRN",
+        "covName": "Brand mm.",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "STOH",
+        "covName": "Tyveri/hærv",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "NPKT",
+        "covName": "Psyk.Kris.",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "SVEJ",
+        "covName": "Vand/Vejr",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NUNH",
+        "covName": "Uheld",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NUVA",
+        "covName": "Udv. Vand",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NBOD",
+        "covName": "Boligdækn.",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NELK",
+        "covName": "Udv.Elektr",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NBAJ",
+        "covName": "Bagage",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "NUDL",
+        "covName": "Udlejning",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NUCY",
+        "covName": "Udv C(rep)",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NUYC",
+        "covName": "Udv.C(ny)",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "SSDA",
+        "covName": "Særlig dækn",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NCYF",
+        "covName": "Cyk.Fordel",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NALM",
+        "covName": "Alarm",
+        "covIndicator": false,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "FTAG"
+      }
+    ],
+    "effectiveDate": "24. august 2021",
+    "productGroupCode": "NNC2",
+    "productGroupId": "856",
+    "tariff": "51",
+    "termsAndConditions": "20G2",
+    "usageType": "",
+    "groupNumber": "0505",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Indboforrsikring_NCS",
+    "premiumPaymentFrequency": 1,
+    "currentBasePricePerPayment": "2316.00",
+    "packageType": "PA01",
+    "packageText": "Basis",
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Ulykkesforsikring",
+    "productNameShort": "Patrick Jørgensen",
+    "policyNumber": "8804001590118",
+    "policyNumberFormat": "880 4.001.590.118",
+    "productKeyType": "01",
+    "productStatusActualCode": "20",
+    "productStatusActualShort": "Ikraft",
+    "productStatusActualLong": "Ikraft",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "899.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Ulykkesforsikring",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": " ",
+    "upsellSiebel": " ",
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SDUL",
+        "covName": "Fys.var.mén",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULPY",
+        "covName": "Psyk.var.mén",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULUD",
+        "covName": "Udv.var.mén",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULST",
+        "covName": "Strakserst.",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ULUH",
+        "covName": "Udv. hjælp",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ULFS",
+        "covName": "Farlig sport",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ULTY",
+        "covName": "Tyggeskade",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULSY",
+        "covName": "Sygdom",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "KNÆ5",
+        "covName": "Knæ fra 5%",
+        "covIndicator": true,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "FORS"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "FTAG"
+      },
+      {
+        "rolePlayerID": "05411751248042307102",
+        "financialServiceRoleCode": "FORS"
+      }
+    ],
+    "effectiveDate": "1. januar 2021",
+    "productGroupCode": "ULLK",
+    "productGroupId": "880",
+    "tariff": "6",
+    "termsAndConditions": "18I3",
+    "usageType": "VOKS",
+    "groupNumber": "0811",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Ulykkesforsikring_NCS",
+    "premiumPaymentFrequency": 1,
+    "currentBasePricePerPayment": "899.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Indboforsikring",
+    "productNameShort": "Indbo",
+    "policyNumber": "8566002617120",
+    "policyNumberFormat": "856 6.002.617.120",
+    "productKeyType": "01",
+    "productStatusActualCode": "20",
+    "productStatusActualShort": "Ikraft",
+    "productStatusActualLong": "Ikraft",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "828.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": " ",
+    "upsellSiebel": " ",
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SDAB",
+        "covName": "Brand/Ansvar",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "SDTV",
+        "covName": "Tyveri/Vand",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "NETR",
+        "covName": "Elektronik",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "NPLS",
+        "covName": "Pludselig",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "NCYK",
+        "covName": "Udv. cykel",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "SDML",
+        "covName": "Særlig dækning",
+        "covIndicator": false,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      }
+    ],
+    "effectiveDate": "1. januar 2021",
+    "productGroupCode": "NNC",
+    "productGroupId": "856",
+    "tariff": "50",
+    "termsAndConditions": "12I1",
+    "usageType": "",
+    "groupNumber": "0811",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Indboforrsikring_NCS",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "69.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Årsrejseforsikring",
+    "productNameShort": "Verden",
+    "policyNumber": "8566002617121",
+    "policyNumberFormat": "856 6.002.617.121",
+    "productKeyType": "01",
+    "productStatusActualCode": "20",
+    "productStatusActualShort": "Ikraft",
+    "productStatusActualLong": "Ikraft",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "516.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": " ",
+    "upsellSiebel": " ",
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SDSY",
+        "covName": "Årsrejse",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRSK",
+        "covName": "Skidækning",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRUD",
+        "covName": "Udv årsrejse",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRUL",
+        "covName": "Rejseulykke",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRAF",
+        "covName": "Afbestilling",
+        "covIndicator": true,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      }
+    ],
+    "effectiveDate": "1. januar 2021",
+    "productGroupCode": "PÅRS",
+    "productGroupId": "856",
+    "tariff": "41",
+    "termsAndConditions": "13I7",
+    "usageType": "",
+    "groupNumber": "0811",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Rejseforsikring_NCS",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "43.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Ulykkesforsikring",
+    "productNameShort": "Louise King Otoo",
+    "policyNumber": "8804001590117",
+    "policyNumberFormat": "880 4.001.590.117",
+    "productKeyType": "01",
+    "productStatusActualCode": "20",
+    "productStatusActualShort": "Ikraft",
+    "productStatusActualLong": "Ikraft",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "900.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Ulykkesforsikring",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": " ",
+    "upsellSiebel": " ",
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SDUL",
+        "covName": "Fys.var.mén",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULPY",
+        "covName": "Psyk.var.mén",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULUD",
+        "covName": "Udv.var.mén",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULST",
+        "covName": "Strakserst.",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ULUH",
+        "covName": "Udv. hjælp",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ULFS",
+        "covName": "Farlig sport",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ULTY",
+        "covName": "Tyggeskade",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ULSY",
+        "covName": "Sygdom",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "KNÆ5",
+        "covName": "Knæ fra 5%",
+        "covIndicator": true,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FORS"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FORS"
+      }
+    ],
+    "effectiveDate": "15. januar 2021",
+    "productGroupCode": "ULLK",
+    "productGroupId": "880",
+    "tariff": "6",
+    "termsAndConditions": "18I3",
+    "usageType": "VOKS",
+    "groupNumber": "0811",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Ulykkesforsikring_NCS",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "75.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Bilforsikring",
+    "productNameShort": "Auto",
+    "policyNumber": "8200005524828",
+    "policyNumberFormat": "820 5.524.828",
+    "productKeyType": "01",
+    "productStatusActualCode": "40",
+    "productStatusActualShort": "Ophørt",
+    "productStatusActualLong": "18.12.2020",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "3720.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Personbil",
+    "makeAndModel": "Peugeot 307 2,0 HDI XR 90HK 5d",
+    "vehicleRegNo": "AS85028",
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": null,
+    "upsellSiebel": null,
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "ANSA",
+        "covName": "Ansvar",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "SDKA",
+        "covName": "Kasko",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "SDDK",
+        "covName": "DelKasko",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "FRSK",
+        "covName": "Friskad",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "TVEA",
+        "covName": "Vejhjælp",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "TVEE",
+        "covName": "Vejhjælp",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "TVEB",
+        "covName": "Udv. Vejhj",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "FULY",
+        "covName": "Førerdækn.",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "VÆFO",
+        "covName": "Værdiforr.",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "TBPE",
+        "covName": "LåneBil",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "PARK",
+        "covName": "P-skade",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "STIL",
+        "covName": "Stilstand",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "LEAS",
+        "covName": "Leasing",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "UNBR",
+        "covName": "Ung bag ratt",
+        "covIndicator": false,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BRUG"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "EJER"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      }
+    ],
+    "effectiveDate": "2. juli 2020",
+    "productGroupCode": "PBIP",
+    "productGroupId": "820",
+    "tariff": "45",
+    "termsAndConditions": "18I5",
+    "usageType": "",
+    "groupNumber": "0811",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Bil",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "310.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Indboforsikring",
+    "productNameShort": "Indbo",
+    "policyNumber": "8566001298285",
+    "policyNumberFormat": "856 6.001.298.285",
+    "productKeyType": "01",
+    "productStatusActualCode": "40",
+    "productStatusActualShort": "Ophørt",
+    "productStatusActualLong": "01.07.2020",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "2448.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "Langøgade 14, 1 th, 2100 København Ø",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": null,
+    "upsellSiebel": null,
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SDAB",
+        "covName": "Brand/Ansvar",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "SDTV",
+        "covName": "Tyveri/Vand",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "NETR",
+        "covName": "Elektronik",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NPLS",
+        "covName": "Pludselig",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "NCYK",
+        "covName": "Udv. cykel",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "SDML",
+        "covName": "Særlig dækning",
+        "covIndicator": false,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      }
+    ],
+    "effectiveDate": "1. december 2018",
+    "productGroupCode": "NNC",
+    "productGroupId": "856",
+    "tariff": "50",
+    "termsAndConditions": "12G1",
+    "usageType": "",
+    "groupNumber": "0505",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Indboforrsikring_NCS",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "204.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  },
+  {
+    "hasClaim": null,
+    "productName": "Årsrejseforsikring",
+    "productNameShort": "Verden",
+    "policyNumber": "8566001355763",
+    "policyNumberFormat": "856 6.001.355.763",
+    "productKeyType": "01",
+    "productStatusActualCode": "40",
+    "productStatusActualShort": "Ophørt",
+    "productStatusActualLong": "01.08.2020",
+    "currentPricePerYearShort": null,
+    "currentPricePerYearLong": null,
+    "futurePricePerYearShort": "744.00",
+    "futurePricePerYearLong": null,
+    "placeOfInsurance": "",
+    "carDriver": null,
+    "descriptionOfNumbers": null,
+    "objectNameLong": "Rosenvængets Allé 21, 5 tv, 2100 København Ø",
+    "makeAndModel": null,
+    "vehicleRegNo": null,
+    "otherDescriptionType": null,
+    "otherDescriptionValue": null,
+    "listOfClaims": null,
+    "upsellStatus": false,
+    "upsellValue": null,
+    "upsellSiebel": null,
+    "priority": "99",
+    "coverageList": [
+      {
+        "covCode": "SDSY",
+        "covName": "Årsrejse",
+        "covIndicator": true,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRSK",
+        "covName": "Skidækning",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRUD",
+        "covName": "Udv årsrejse",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRUL",
+        "covName": "Rejseulykke",
+        "covIndicator": false,
+        "changed": false
+      },
+      {
+        "covCode": "ÅRAF",
+        "covName": "Afbestilling",
+        "covIndicator": true,
+        "changed": false
+      }
+    ],
+    "policyRoleList": [
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "BETA"
+      },
+      {
+        "rolePlayerID": "16579671534162018102",
+        "financialServiceRoleCode": "FTAG"
+      }
+    ],
+    "effectiveDate": "1. januar 2019",
+    "productGroupCode": "PÅRS",
+    "productGroupId": "856",
+    "tariff": "41",
+    "termsAndConditions": "13G7",
+    "usageType": "",
+    "groupNumber": "0505",
+    "policyEditStatus": false,
+    "rcproductKey": "RCT_Rejseforsikring_NCS",
+    "premiumPaymentFrequency": 12,
+    "currentBasePricePerPayment": "62.00",
+    "packageType": null,
+    "packageText": null,
+    "valueOfferStatus": false,
+    "voValue": null,
+    "discountAmount": null,
+    "offerDurationLength": 0,
+    "offerDurationTypes": null,
+    "campaignCode": null,
+    "privateHealthInsurance": false,
+    "collectiveHealthInsurance": false
+  }
+]
